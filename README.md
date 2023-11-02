@@ -1,8 +1,8 @@
-# HorizonDroidLab
+# HorizonDroid
 
  Getting Started
 ---------------
-To get started with the PixelOS sources, you'll need to get
+To get started with the HorizonDroid sources, you'll need to get
 familiar with [Git and Repo](https://source.android.com/setup/build/downloading).
 
  To initialize your local repository, use command:
@@ -44,5 +44,5 @@ Credits:
  * [**LineageOS**](https://github.com/LineageOS)
  * [**PixelOS**](https://github.com/PixelOS-Fourteen)
  * [**DroidX-UI**](https://github.com/DroidX-UI)
- * [**AOSP**](https://android.googlesource.com)
+ * [**AfterlifeOS*](https://github.com/AfterLifePrjkt13)
 -----------------------------------------------------------------------------
