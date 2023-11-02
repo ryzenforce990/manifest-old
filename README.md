@@ -14,7 +14,7 @@ repo init -u https://github.com/HorizonDroidLab/manifest.git -b fourteen
 Then sync up:
 
 ```bash
-repo sync
+repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync -j8
 ```
 
 Building the System
@@ -36,3 +36,13 @@ Start compilation
 ```bash
 make bacon
 ```
+-----------------------------------------------------------------------------
+Credits:
+=======
+ * [**CAF**](https://source.codeaurora.org)
+ * [**AOSP**](https://android.googlesource.com)
+ * [**LineageOS**](https://github.com/LineageOS)
+ * [**PixelOS**](https://github.com/PixelOS-Fourteen)
+ * [**DroidX-UI**](https://github.com/DroidX-UI)
+ * [**AOSP**](https://android.googlesource.com)
+-----------------------------------------------------------------------------
