@@ -5,6 +5,9 @@
            fetch="https://github.com/HorizonDroidLab"
            revision="refs/heads/fourteen" />
 
+  <!-- Rootdir -->
+  <project path="bionic" name="bionic" groups="pdk" remote="HorizonDroidLab" />
+
   <!-- Bootable -->
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="HorizonDroidLab" />
 

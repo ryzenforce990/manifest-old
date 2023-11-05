@@ -17,9 +17,6 @@
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-13.1" />
 
-  <!-- Rootdir -->
-  <project path="bionic" name="LineageOS/android_bionic" groups="pdk" remote="LineageOS" revision="refs/changes/74/368174/2" />
-
   <!-- Device -->
   <project path="device/generic/common" name="LineageOS/android_device_generic_common" groups="pdk" remote="LineageOS" />
   <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" remote="LineageOS" />
