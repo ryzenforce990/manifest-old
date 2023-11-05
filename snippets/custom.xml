@@ -56,5 +56,5 @@
   <!-- Vendor -->
   <project path="vendor/aosp" name="vendor_aosp" remote="HorizonDroidLab" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="HorizonDroidLab" />
-  <project path="vendor/google/pixel" name="google_pixel" clone-depth="1" remote="HorizonDroidLab" />
+  <project path="vendor/google/pixel" name="vendor_google_pixel" clone-depth="1" remote="HorizonDroidLab" />
 </manifest>
