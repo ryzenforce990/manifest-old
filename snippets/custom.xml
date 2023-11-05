@@ -5,10 +5,6 @@
            fetch="https://github.com/HorizonDroidLab"
            revision="refs/heads/fourteen" />
 
-  <remote  name="PixelOS-Gitlab"
-           fetch="https://gitlab.com/basamaryan"
-           revision="refs/heads/fourteen" />
-
   <!-- Bootable -->
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="HorizonDroidLab" />
 
@@ -57,5 +53,5 @@
   <!-- Vendor -->
   <project path="vendor/aosp" name="vendor_aosp" remote="HorizonDroidLab" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="HorizonDroidLab" />
-  <project path="vendor/gms" name="vendor_gms" clone-depth="1" remote="PixelOS-Gitlab" />
+  <project path="vendor/google/pixel" name="google_pixel" clone-depth="1" remote="HorizonDroidLab" />
 </manifest>
