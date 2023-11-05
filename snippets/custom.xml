@@ -12,6 +12,9 @@
   <!-- Bootable -->
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="HorizonDroidLab" />
 
+  <!-- Rootdir -->
+  <project path="bionic" name="bionic" groups="pdk" remote="HorizonDroidLab" />
+
   <!-- Build -->
   <project path="build/make" name="build" groups="pdk" remote="HorizonDroidLab">
     <copyfile src="core/root.mk" dest="Makefile" />
