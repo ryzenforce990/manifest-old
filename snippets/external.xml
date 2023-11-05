@@ -16,6 +16,10 @@
            fetch="https://github.com/"
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-13.1" />
+  
+<remote  name="AOSPA"
+           fetch="https://gitlab.com/ThankYouMario"
+           revision="uvite" />
 
   <!-- Device -->
   <project path="device/generic/common" name="LineageOS/android_device_generic_common" groups="pdk" remote="LineageOS" />
