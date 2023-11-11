@@ -60,9 +60,6 @@
   <project path="hardware/lineage/interfaces" name="hardware_lineage_interfaces" remote="HorizonDroidLab" />
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="HorizonDroidLab" />
 
-  <!-- Packages -->
-  <project path="packages/apps/Updates" name="packages_apps_Updates" remote="HorizonDroidLab" />
-  
   <!-- Vendor -->
   <project path="vendor/aosp" name="vendor_aosp" remote="HorizonDroidLab" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="HorizonDroidLab" />
