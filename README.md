@@ -48,10 +48,13 @@ make bacon
 -----------------------------------------------------------------------------
 Credits:
 =======
+- Credits:
+ * [**PixelOS**](https://github.com/PixelOS-Fourteen)
  * [**CAF**](https://source.codeaurora.org)
  * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
- * [**PixelOS**](https://github.com/PixelOS-Fourteen)
  * [**DroidX-UI**](https://github.com/DroidX-UI)
- * [**AfterlifeOS*](https://github.com/AfterLifePrjkt13)
+ * [**AfterlifeOS**](https://github.com/AfterLifePrjkt13)
+ * [**AOSP for Nabu/Marble**](https://github.com/Nabu-upsidedowncake)
+ * [**Evolution-X**](https://github.com/Evolution-X)
 -----------------------------------------------------------------------------
