@@ -52,6 +52,7 @@
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="HorizonDroidLab" />
 
   <!-- Begin Extras -->
+  <project path="packages/modules/HorizonLab" name="packages_modules_HorizonLab" groups="pdk" remote="HorizonDroidLab" />
 
   <!-- Device -->
   <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="HorizonDroidLab" />
