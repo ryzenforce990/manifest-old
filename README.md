@@ -1,5 +1,7 @@
 # HorizonDroid
 
+![HorizonDroid](https://github.com/HorizonDroidLab/.github/blob/main/HorizonDroidBanner.png)
+
  Getting Started
 ---------------
 To get started with the HorizonDroid sources, you'll need to get
@@ -36,6 +38,13 @@ Start compilation
 ```bash
 make bacon
 ```
+-----------------------------------------------------------------------------
+
+### Important Links
+
+- [Telegram channel](https://t.me/horizondroid)
+- [Telegram group](https://t.me/HorizonDroidChat)
+
 -----------------------------------------------------------------------------
 Credits:
 =======
