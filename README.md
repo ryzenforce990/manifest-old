@@ -16,7 +16,7 @@ repo init -u https://github.com/HorizonDroidLab/manifest.git -b fourteen
 Then sync up:
 
 ```bash
-repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync -j8
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
 Building the System
