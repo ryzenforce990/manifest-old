@@ -8,6 +8,10 @@
   <remote  name="PixelOS-Gitlab"
            fetch="https://gitlab.com/basamaryan"
            revision="refs/heads/fourteen" />
+  
+  <remote  name="evo-gitlab"
+           fetch="https://gitlab.com/EvoX"
+           revision="refs/heads/udc" />
 
   <!-- Bootable -->
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="HorizonDroidLab" />
@@ -46,7 +50,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="HorizonDroidLab" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" groups="pdk" remote="HorizonDroidLab" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="HorizonDroidLab" />
-
+  <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="evo-gitlab" />
 
   <!-- System -->
   <project path="system/core" name="system_core" groups="pdk" remote="HorizonDroidLab" />
