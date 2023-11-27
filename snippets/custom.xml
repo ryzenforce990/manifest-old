@@ -9,6 +9,10 @@
            fetch="https://gitlab.com/basamaryan"
            revision="refs/heads/fourteen" />
   
+  <remote  name="Evolution-X"
+           fetch="https://github.com/Evolution-X"
+           revision="refs/heads/udc" />
+  
   <remote  name="evo-gitlab"
            fetch="https://gitlab.com/EvoX"
            revision="refs/heads/udc" />
@@ -65,7 +69,7 @@
 
   <!-- Hardware -->
   <project path="hardware/lineage/interfaces" name="hardware_lineage_interfaces" remote="HorizonDroidLab" />
-  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="HorizonDroidLab" />
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X" />
 
   <!-- Vendor -->
   <project path="vendor/aosp" name="vendor_aosp" remote="HorizonDroidLab" />
