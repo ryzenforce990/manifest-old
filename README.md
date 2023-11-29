@@ -1,6 +1,6 @@
 # HorizonDroid
 
-![HorizonDroid](https://github.com/HorizonDroidLab/.github/blob/main/HorizonDroidBanner.png)
+![HorizonDroid](https://github.com/HorizonDroidLab/.github/blob/main/zenith_Update%20ROM.png)
 
  Getting Started
 ---------------
