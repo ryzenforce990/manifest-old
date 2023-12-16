@@ -3,7 +3,7 @@
 
   <remote  name="HorizonDroidLab"
            fetch="https://github.com/HorizonDroidLab"
-           revision="refs/heads/fourteen" />
+           revision="refs/heads/fourteen-qpr1" />
 
   <remote  name="PixelOS-Gitlab"
            fetch="https://gitlab.com/basamaryan"
